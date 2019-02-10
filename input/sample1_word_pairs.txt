@@ -1,0 +1,14 @@
+directors-producers
+film-movie
+black-white
+man-woman
+person-man
+young-woman
+science-fiction
+thrilling-realistic
+lovely-stunning
+criminals-zombies
+father-son
+girlfriend-boyfriend
+nurse-soldier
+professor-college
